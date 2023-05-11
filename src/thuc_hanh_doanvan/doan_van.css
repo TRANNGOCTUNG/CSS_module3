@@ -1,0 +1,19 @@
+body {
+    font-family: Calibri;
+
+}
+h1{
+    text-decoration: underline;
+}
+#p1,#p2,#p3 {
+text-indent: 50px;
+}
+.vn{
+    font-weight: bold;
+}
+.dd,.vn2{
+    color: #32a4e7;
+}
+.dna{
+    color: blue;
+}
